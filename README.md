@@ -18,7 +18,7 @@
 ![Wmd-4](https://user-images.githubusercontent.com/19146537/65636023-76634980-dfaf-11e9-9d49-07e1055c7a13.png)
 
 
-## Spice up your profile with an picture
+## Spice up your profile with a picture
 
 ![Wmd-3](https://user-images.githubusercontent.com/19146537/65635837-1bc9ed80-dfaf-11e9-9b02-065892df13e5.png)
 
