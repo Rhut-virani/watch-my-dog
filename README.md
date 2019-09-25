@@ -1,6 +1,6 @@
 # Watch My Dog
 
-<p align="center"><b>React</b> front end and <b>Python Flask</b></p>
+<p align="center"><b>React</b> front end and <b>Python Flask</b> backend</p>
 
 <p align="center">A website that lets you search local dog sitters that can take care of your dogs.
 <p>
